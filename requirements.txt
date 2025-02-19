@@ -3,3 +3,4 @@ Flask # Libreria que puede crear servidores y aplicaciones web
 Flask-PyMongo 
 flask-cors #
 python-dotenv #Nos permite usar el .env del proyecto #venv
+marshmallow #Nos permite serializar y deserializar objetos
